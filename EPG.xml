@@ -2,12 +2,6 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="unknown" generator-info-url="http://sinalmycn.com:80/">
 	<channel id="">
-		<display-name>CAMSODA 720p</display-name>
-	</channel>
-	<channel id="">
-		<display-name>CAMSODA 480p</display-name>
-	</channel>
-	<channel id="">
 		<display-name>BBB 01</display-name>
 		<icon src="http://www.fontedecanais.tv/logos/canais/bbb.png" />
 	</channel>
